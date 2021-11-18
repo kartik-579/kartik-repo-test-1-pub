@@ -1,3 +1,3 @@
 [submodule "kartik-repo-test-2-pub"]
-	path = kartik-repo-test-2-pub
+	path = /src/test/kartik-repo-test-2-pub
 	url = https://github.com/kartik-579/kartik-repo-test-2-pub.git
