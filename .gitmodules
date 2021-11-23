@@ -4,3 +4,5 @@
 [submodule "/Users/kartik579/kartik-repo-test-1-pub/test"]
 	path = test
 	url = https://github.com/kartik-579/kartik-repo-test-2-pub.git
+[submodule "test"]
+	branch = main
